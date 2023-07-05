@@ -1,5 +1,5 @@
 <?php
-/*File realizzato appositamente per il corso di git hub base  da Lucio*/
+/*File realizzato appositamente per il corso di git hub base  da Lucio e Mattia*/
 /*addizione*/
 function addizione (n1,n2){
 return n1+n2;
